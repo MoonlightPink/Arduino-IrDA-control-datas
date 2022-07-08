@@ -8,7 +8,7 @@ Mitsubishi Wind fan R30J-RM 三菱製扇風機<br>
 NEC Ceiling light NEC製天井付け照明器具<br>
 OHM Elec OCR-05 オーム製赤外線リモコンコンセント<br>
 Panasonic Ceiling light パナソニック製天井付け照明器具<br>
-Panasonic Wind fan F-CV324<br>
+Panasonic Wind fan F-CV324 パナソニック製扇風機<br>
 GreenHouse HDMI selector GH-HSWB3 グリーンハウス製HDMI切り替え機<br>
 TEC HDMI selector THD42MSP2 テック製HDMI切り替え機<br>
 Maxell HDD recorder RC-R3 マクセル製HDDレコーダ<br>
