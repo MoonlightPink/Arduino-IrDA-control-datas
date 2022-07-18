@@ -20,4 +20,5 @@ Sony AV amp STR-DH790 with RMT-AA401U ソニー製AVアンプ<br>
 Toyotomi Air conditioner TIW-A18DSE with RC-1 トヨトミ製ウィンドウエアコン<br>
 TwinBird Wind fan EF-D988 ツインバード製扇風機<br>
 WiMiUS Projector P28<br>
+Yamazen Wind fan YSR-WD90C 山善製扇風機<br>
 <br>
