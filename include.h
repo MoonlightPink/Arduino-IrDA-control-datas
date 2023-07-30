@@ -25,3 +25,11 @@
 
 #include "WiMiUS_Projector_P28.h"
 
+#include "BedRoom2F_Hitachi_AirCon.h"
+
+#include "Panasonic_WindFan.h"
+
+#include "Yamazen_WindFan_YSR-WD90C.h"
+
+#include "Sovboi_Projector_VB1.h"
+
