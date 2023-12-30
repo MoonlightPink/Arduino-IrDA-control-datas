@@ -21,4 +21,5 @@ Toyotomi Air conditioner TIW-A18DSE with RC-1 トヨトミ製ウィンドウエ�
 TwinBird Wind fan EF-D988 ツインバード製扇風機<br>
 WiMiUS Projector P28<br>
 Yamazen Wind fan YSR-WD90C 山善製扇風機<br>
+Corona Wind air con コロナ製窓用エアコン リモコン型番 CWH<br>
 <br>
