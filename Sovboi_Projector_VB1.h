@@ -12,7 +12,7 @@ private:
   void SendData(u8 Data)
   {
     IrDA_NEC_Send(pin,Maker1,Maker2,Data);
-    delay(200);
+    IrDA_Wait(200);
   }
 
 public:
@@ -26,8 +26,10 @@ public:
   }
   void SendShutdown(void) // 遮断（電源ボタン2回）
   {
-    SendPower();
-    SendPower();
+    for(int i=0;i<3;i++){
+      SendPower();
+      delay(100);
+    }
   }
   void SendMute(void) // 消音（動作未確認）
   {
