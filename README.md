@@ -15,6 +15,7 @@ Maxell HDD recorder RC-R3 マクセル製HDDレコーダ<br>
 SANYO Wind fan 三洋製扇風機<br>
 DAIKIN Air conditioner ダイキン製エアコン<br>
 Hitachi Air conditioner 日立製エアコン<br>
+Hitachi Air cleaner EP-ZN30S 日立製加湿空気清浄機<br>
 Roomba Cleaner model.536 ルンバ<br>
 Sony AV amp STR-DH790 with RMT-AA401U ソニー製AVアンプ<br>
 Toyotomi Air conditioner TIW-A18DSE with RC-1 トヨトミ製ウィンドウエアコン<br>
