@@ -17,26 +17,18 @@ static void IrDA_Wait(u32 ms=10){
 #include "NEC_CeilingLight.h"
 #include "ASTEX_AX_KH43.h"
 #include "Toyotomi_WindAirCon_RC1.h"
-
 #include "Roomba.h"
 #include "Anker_RoboVac_11S.h"
-
 #include "OHM-Elec_OCR-05.h"
-
 #include "Panasonic_CeilLight.h"
-
 #include "Sony_AVAmp.h"
-
 #include "WiMiUS_Projector_P28.h"
 #include "WiMiUS_Projector_P62.h"
-
 #include "BedRoom2F_Hitachi_AirCon.h"
-
 #include "Panasonic_WindFan.h"
-
 #include "Yamazen_WindFan_YSR-WD90C.h"
-
 #include "Sovboi_Projector_VB1.h"
-
 #include "Corona_WindAirCon.h"
+#include "Odelic_CeilLight.h"
+#include "Hitachi_EP_ZN30S.h"
 
